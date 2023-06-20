@@ -1,4 +1,0 @@
-----
-layout: single
-title: 아아 이게 무엇일까요
-----
