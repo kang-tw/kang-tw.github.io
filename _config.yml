@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "강태웅"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Seoul, Republic of Korea"
   email            : "twk0106@naver.com"
   links:
    
