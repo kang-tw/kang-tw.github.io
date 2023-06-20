@@ -99,7 +99,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            : "[twk0106@naver.com](mailto:twk0106@naver.com)"
+  email            : "'twk0106@naver.com'"
   links:
    
     - label: "Website"
