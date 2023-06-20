@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taewoong_Kang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "TaewoongKang"
 description              : "An amazing website."
 url                      : "https://kang-tw.github.io" #the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
