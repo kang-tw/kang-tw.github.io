@@ -25,6 +25,6 @@ sidebar_main: true
 
 ## Education
 ---
-Computer Engineering in Kwangwoon University (2020~)
+Computer Engineering at Kwangwoon University (2020~)
 
 
